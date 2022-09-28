@@ -1,0 +1,15 @@
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\bin\Debug\net6.0\28.09.22-80,25.exe
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\bin\Debug\net6.0\28.09.22-80,25.deps.json
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\bin\Debug\net6.0\28.09.22-80,25.runtimeconfig.json
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\bin\Debug\net6.0\28.09.22-80,25.dll
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\bin\Debug\net6.0\28.09.22-80,25.pdb
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\obj\Debug\net6.0\28.09.22-80,25.csproj.AssemblyReference.cache
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\obj\Debug\net6.0\28.09.22-80,25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\obj\Debug\net6.0\28.09.22-80,25.AssemblyInfoInputs.cache
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\obj\Debug\net6.0\28.09.22-80,25.AssemblyInfo.cs
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\obj\Debug\net6.0\28.09.22-80,25.csproj.CoreCompileInputs.cache
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\obj\Debug\net6.0\28.09.22-80,25.dll
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\obj\Debug\net6.0\refint\28.09.22-80,25.dll
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\obj\Debug\net6.0\28.09.22-80,25.pdb
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\obj\Debug\net6.0\28.09.22-80,25.genruntimeconfig.cache
+C:\Users\cyber\Desktop\28.09.22\28.09.22-80,25\28.09.22-80,25\obj\Debug\net6.0\ref\28.09.22-80,25.dll
